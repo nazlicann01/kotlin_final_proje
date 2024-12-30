@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "..mipmap-hdpi"
+		},
+		{
+			"path": "..mipmap-mdpi"
+		},
+		{
+			"path": "..mipmap-xhdpi"
+		},
+		{
+			"path": "..mipmap-xxhdpi"
+		},
+		{
+			"path": "..mipmap-xxxhdpi"
+		},
+		{
+			"path": "..navigation"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..values-night"
+		},
+		{
+			"path": "..xml"
+		},
+		{
+			"path": "..layout"
+		},
+		{
+			"path": "..mipmap-anydpi-v26"
+		}
+	]
+}
